@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"####################################################","color":"aqua"},"\n",{"text":"El Datapack de Minecraft al desnudo fue recargado\ncon exito.","color":"gold"},"\n\n         ",{"text":"MAD","color":"yellow"}," V1.0  ",{"text":"[","color":"dark_aqua"},{"text":"creditos","clickEvent":{"action":"run_command","value":"/function codigo_mad:default/creditos"},"underlined":true,"color":"yellow"},{"text":"]","color":"dark_aqua"},"\n",{"text":"####################################################","color":"aqua"}]
+

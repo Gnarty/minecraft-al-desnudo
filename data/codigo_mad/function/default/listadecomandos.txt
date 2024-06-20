@@ -1,0 +1,5 @@
+/damage Gnarty 10 minecraft:player_explosion by @e[name=armadura,type=minecraft:axolotl,limit=1]
+
+/execute as Gnarty if items entity Gnarty armor.chest #minecraft:chest_armor run say gnarty tiene un peto
+
+/scoreboard players set chat booleanos 1
