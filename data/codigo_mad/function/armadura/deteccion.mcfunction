@@ -1,0 +1,2 @@
+#execute if score armor booleanos matches 1 run execute as @a if items entity @s armor.* #minecraft:trimmable_armor run damage @s 2 minecraft:player_explosion by @e[type=minecraft:armor_stand,limit=1,name=armadura]
+execute if score armor booleanos matches 1 run execute as @a if items entity @s armor.* #minecraft:trimmable_armor run damage @s 2 minecraft:sonic_boom by @e[type=minecraft:armor_stand,limit=1,name=armadura]
